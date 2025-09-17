@@ -1,5 +1,10 @@
 {
   "dotnet.defaultSolution": "eShop.Web.slnf",
   "github.copilot.nextEditSuggestions.enabled": true,
-  "github.copilot.nextEditSuggestions.fixes": true
+  "github.copilot.nextEditSuggestions.fixes": true,
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Use conventional commit message format. Start the message with the branch name."
+    }
+  ]
 }
