@@ -4,7 +4,7 @@
   "github.copilot.nextEditSuggestions.fixes": true,
   "github.copilot.chat.commitMessageGeneration.instructions": [
     {
-      "text": "Start the message with the branch name. Besides that, use conventional commit message format."
+      "text": "Start the message with the branch name. (e.g., branchName: rest of the message)"
     }
   ]
 }
